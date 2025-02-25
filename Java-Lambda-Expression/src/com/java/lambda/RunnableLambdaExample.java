@@ -4,7 +4,7 @@ class ThreadDemo implements Runnable{
 
     @Override
     public void run() {
-        System.out.println("run method called.....");
+        System.out.println("run method called....");
     }
 }
 public class RunnableLambdaExample {

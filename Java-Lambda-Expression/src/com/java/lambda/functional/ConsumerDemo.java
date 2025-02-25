@@ -35,7 +35,7 @@ public class ConsumerDemo {
 }
 */
 
-// Functional Way (Lambda)
+// Functional Way (Lambda)...
 public class ConsumerDemo {
     public static void main(String[] args) {
         Consumer<String> consumer = (input) -> System.out.println(input);

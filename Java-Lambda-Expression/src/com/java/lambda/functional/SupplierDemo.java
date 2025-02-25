@@ -17,7 +17,8 @@ This is a functional interface whose functional method is get().*/
 //  above part is myNotes purpose
 
 // Traditional Way (OOP)
-/*class SupplierImpl implements Supplier<LocalDateTime>{
+/*
+class SupplierImpl implements Supplier<LocalDateTime>{
 
     @Override
     public LocalDateTime get() {

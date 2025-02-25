@@ -5,6 +5,7 @@ import java.util.function.BiFunction;
 import java.util.function.Function;
 
 // type 2.
+
 interface Printable{
     void print(String msg);
 }

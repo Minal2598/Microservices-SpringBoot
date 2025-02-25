@@ -5,7 +5,7 @@ interface Addable{
 }
 
 class AddableImpl implements Addable{
-    // Traditional Way
+    // Traditional Way(OOP)
 
     @Override
     public int addition(int a, int b) {

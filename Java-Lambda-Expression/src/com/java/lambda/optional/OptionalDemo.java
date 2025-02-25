@@ -27,7 +27,7 @@ public class OptionalDemo {
 //        }else {
 //            System.out.println("No value Present");
 //        }
-//
+
         // How to get default value from Optional
         Optional<String> stringOptional1 = Optional.ofNullable(email);
          String defaultOptional = stringOptional1.orElse("dafault@gmail.com");
