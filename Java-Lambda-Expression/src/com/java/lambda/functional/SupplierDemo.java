@@ -31,7 +31,6 @@ public class SupplierDemo{
         Supplier<LocalDateTime> supplier = new SupplierImpl();
         System.out.println(supplier.get());
     }
-
 }*/
 
 public class SupplierDemo{

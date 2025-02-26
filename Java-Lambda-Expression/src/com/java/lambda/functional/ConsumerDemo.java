@@ -7,7 +7,8 @@ import java.util.function.Consumer;
 //T - the type of the input to the operation
 
 
-/*@FunctionalInterface
+/*
+@FunctionalInterface
 public interface Consumer<T>
 Represents an operation that accepts a single input argument and returns no result.
 Unlike most other functional interfaces, Consumer is expected to operate via side-effects.

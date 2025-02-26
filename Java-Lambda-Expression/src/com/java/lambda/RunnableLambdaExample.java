@@ -14,8 +14,7 @@ public class RunnableLambdaExample {
 
 //       Runnable runnable = () -> System.out.println("run method called using lambda....");
 
-
-       Thread threadLambda = new Thread(() -> System.out.println("run method called using lambda...."));
+        Thread threadLambda = new Thread(() -> System.out.println("run method called using lambda...."));
        threadLambda.start();
     }
 }

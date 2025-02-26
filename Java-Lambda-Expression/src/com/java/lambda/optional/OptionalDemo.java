@@ -3,6 +3,7 @@ package com.java.lambda.optional;
 import java.util.Optional;
 
 public class OptionalDemo {
+
     public static void main(String[] args) {
 
         String email = null;
@@ -23,7 +24,9 @@ public class OptionalDemo {
         //for that we use isPresent() method
 
 //        if(stringOptional.isPresent()){
+
 //            System.out.println(stringOptional.get());
+
 //        }else {
 //            System.out.println("No value Present");
 //        }

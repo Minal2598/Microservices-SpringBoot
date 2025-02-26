@@ -16,7 +16,8 @@ This is a functional interface whose functional method is apply(Object).*/
 
 // Traditional way
 
-/*class FunctionImpl implements Function<String,Integer>{
+/*
+class FunctionImpl implements Function<String,Integer>{
 
     @Override
     public Integer apply(String s) {

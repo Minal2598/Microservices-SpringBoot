@@ -6,7 +6,8 @@ interface Shape{
 
 // Traditinal Way (OOP)
 
-/*class Rectangle implements Shape{
+/*
+class Rectangle implements Shape{
 
     @Override
     public void draw() {

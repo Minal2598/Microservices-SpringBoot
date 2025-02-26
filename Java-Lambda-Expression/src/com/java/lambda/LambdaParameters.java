@@ -17,9 +17,8 @@ class AddableImpl implements Addable{
 public class LambdaParameters {
 
     public static void main(String[] args) {
-
-//        Addable add = ( a, b) -> (a + b);
-//       int result = add.addition(10,20);
+//          Addable add = ( a, b) -> (a + b);
+//        int result = add.addition(10,20);
 //        System.out.println(result);
 
         Addable abc = (a,b) ->{

@@ -27,7 +27,9 @@ public class MethodReferencesDemo {
     public static void main(String[] args) {
 
         // Type 1. Method Refrence to a static method
+
         // eg.1) type 1.
+
         // lambda expression
         Function<Integer,Double> functionLambda = (input) -> Math.sqrt(input); // <- static method Math.sqrt()
         System.out.println(functionLambda.apply(4));

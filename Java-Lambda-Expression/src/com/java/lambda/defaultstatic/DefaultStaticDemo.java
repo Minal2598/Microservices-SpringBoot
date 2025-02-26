@@ -1,5 +1,5 @@
 package com.java.lambda.defaultstatic;
-
+// interface
 interface Vehicle {
     
     String getBrand();

@@ -14,7 +14,6 @@ public interface MyfunctionalInterface {
     default void m1(){
         System.out.println(" default method 1");
     }
-
     static void m2(){
         System.out.println("Static method 2");
     }
