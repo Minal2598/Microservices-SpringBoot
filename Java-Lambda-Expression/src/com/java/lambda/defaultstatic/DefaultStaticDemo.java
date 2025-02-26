@@ -1,6 +1,7 @@
 package com.java.lambda.defaultstatic;
 
 interface Vehicle {
+    
     String getBrand();
 
     String speedUp();
